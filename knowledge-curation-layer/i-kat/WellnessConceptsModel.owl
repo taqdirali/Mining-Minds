@@ -109,10 +109,10 @@
         <Class IRI="#PersonalVehicle"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ImbalancedDiet"/>
+        <Class IRI="#AppraisalOfPleasantness"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#AppraisalOfPleasantness"/>
+        <Class IRI="#ImbalancedDiet"/>
     </Declaration>
     <Declaration>
         <Class IRI="#SenseOfControl"/>
@@ -238,10 +238,10 @@
         <Class IRI="#GoodHealth"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#OfficeWorker"/>
+        <Class IRI="#Faunal"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Faunal"/>
+        <Class IRI="#OfficeWorker"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Waist"/>
@@ -319,13 +319,13 @@
         <Class IRI="#Community"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#CitizenProtection"/>
+        <Class IRI="#Prevention"/>
     </Declaration>
     <Declaration>
         <Class IRI="#SchoolStaffEducation"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Prevention"/>
+        <Class IRI="#CitizenProtection"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Atheist"/>
@@ -373,19 +373,19 @@
         <Class IRI="#Prayer"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ClinicalEducation"/>
+        <Class IRI="#Fries"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Fries"/>
+        <Class IRI="#ClinicalEducation"/>
     </Declaration>
     <Declaration>
         <Class IRI="#BodyWeightWithShoes"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#EqualHumanRights"/>
+        <Class IRI="#Worrying"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Worrying"/>
+        <Class IRI="#EqualHumanRights"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Selfcare"/>
@@ -565,10 +565,10 @@
         <Class IRI="#Stretching"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#ClimbingStairs"/>
+        <Class IRI="#SpiritualStudy"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#SpiritualStudy"/>
+        <Class IRI="#ClimbingStairs"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Brother"/>
@@ -736,10 +736,10 @@
         <Class IRI="#AppraisalOfJustice"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#WaterMelon"/>
+        <Class IRI="#PatientAdvocate"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#PatientAdvocate"/>
+        <Class IRI="#WaterMelon"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Mutton"/>
@@ -757,10 +757,13 @@
         <ObjectProperty IRI="#isPillorOf"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Kidnapper"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Beans"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Kidnapper"/>
+        <Class IRI="#FireSafety"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Pneumatology"/>
@@ -770,9 +773,6 @@
     </Declaration>
     <Declaration>
         <Class IRI="#EatingPreferences"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#FireSafety"/>
     </Declaration>
     <Declaration>
         <ObjectProperty IRI="#isPartOf"/>
@@ -832,10 +832,10 @@
         <Class IRI="#CaloriesBurned"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Obesety"/>
+        <Class IRI="#CriticalThinking"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#CriticalThinking"/>
+        <Class IRI="#Obesety"/>
     </Declaration>
     <Declaration>
         <Class IRI="#AsianAmerican"/>
@@ -865,25 +865,28 @@
         <Class IRI="#Pain"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#FeelingAtEas"/>
+        <Class IRI="#AfricanAmericans"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Triglycerides"/>
+        <Class IRI="#FeelingAtEas"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Childhood"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Triglycerides"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#PoliticalEquality"/>
+    </Declaration>
+    <Declaration>
+        <Class IRI="#MuddledThinking"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Hinduism"/>
     </Declaration>
     <Declaration>
         <Class IRI="#EqualityOfIncome"/>
-    </Declaration>
-    <Declaration>
-        <Class IRI="#MuddledThinking"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Sweeping"/>
@@ -982,6 +985,9 @@
         <Class IRI="#LocalSafety"/>
     </Declaration>
     <Declaration>
+        <Class IRI="#Widowed"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Fatigue"/>
     </Declaration>
     <Declaration>
@@ -1033,10 +1039,10 @@
         <Class IRI="#Ancestor"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Aches"/>
+        <Class IRI="#Social"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Social"/>
+        <Class IRI="#Aches"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Grapes"/>
@@ -1126,10 +1132,10 @@
         <DataProperty IRI="#time"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Eggs"/>
+        <Class IRI="#Prehypertension"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Prehypertension"/>
+        <Class IRI="#Eggs"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Female"/>
@@ -1180,10 +1186,10 @@
         <Class IRI="#Chicken"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#PoliticalLiberty"/>
+        <Class IRI="#SenseOfWorth"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#SenseOfWorth"/>
+        <Class IRI="#PoliticalLiberty"/>
     </Declaration>
     <Declaration>
         <Class IRI="#LifeStyle"/>
@@ -1240,6 +1246,9 @@
         <Class IRI="#PhysicalEnvironment"/>
     </Declaration>
     <Declaration>
+        <DataProperty IRI="#hasAge"/>
+    </Declaration>
+    <Declaration>
         <Class IRI="#Ham"/>
     </Declaration>
     <Declaration>
@@ -1291,10 +1300,10 @@
         <Class IRI="#PersonInHealthcare"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#HypertensionLevel2"/>
+        <Class IRI="#Cucumber"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Cucumber"/>
+        <Class IRI="#HypertensionLevel2"/>
     </Declaration>
     <Declaration>
         <Class IRI="#Rights"/>
@@ -1369,10 +1378,10 @@
         <Class IRI="#Male"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#NaturalEnvironment"/>
+        <Class IRI="#Equality"/>
     </Declaration>
     <Declaration>
-        <Class IRI="#Equality"/>
+        <Class IRI="#NaturalEnvironment"/>
     </Declaration>
     <SubClassOf>
         <Class IRI="#Aches"/>
@@ -1393,6 +1402,10 @@
     <SubClassOf>
         <Class IRI="#Affordability"/>
         <Class IRI="#EqualityOfIncome"/>
+    </SubClassOf>
+    <SubClassOf>
+        <Class IRI="#AfricanAmericans"/>
+        <Class IRI="#Ethnicity"/>
     </SubClassOf>
     <SubClassOf>
         <Class IRI="#AgeGroup"/>
@@ -3111,6 +3124,10 @@
         <Class IRI="#Fruits"/>
     </SubClassOf>
     <SubClassOf>
+        <Class IRI="#Widowed"/>
+        <Class IRI="#MaritalStatus"/>
+    </SubClassOf>
+    <SubClassOf>
         <Class IRI="#Wife"/>
         <Class IRI="#Spouse"/>
     </SubClassOf>
@@ -3358,6 +3375,10 @@
         <ObjectProperty IRI="#rootCauseOf"/>
         <Class IRI="#PoliticalLiberty"/>
     </ObjectPropertyRange>
+    <DataPropertyDomain>
+        <DataProperty IRI="#hasAge"/>
+        <Class IRI="#Person"/>
+    </DataPropertyDomain>
     <DataPropertyDomain>
         <DataProperty IRI="#time"/>
         <Class IRI="#ConceptOfDeath"/>
